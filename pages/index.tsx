@@ -6,9 +6,9 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>Sexy code</title>
-        <meta name='description' content='Sexy code' />
+        <meta name="description" content="Sexy code" />
       </Head>
-      <div className="text-9xl text-red-700">This is sexy code</div>
+      <div className="text-9xl">This is sexy code</div>
     </>
   );
 };
